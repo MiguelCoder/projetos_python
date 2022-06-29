@@ -1,0 +1,1 @@
+Gera senhas complexas com 24 caracteres

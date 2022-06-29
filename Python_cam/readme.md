@@ -1,0 +1,1 @@
+Captura a imagem da webcam

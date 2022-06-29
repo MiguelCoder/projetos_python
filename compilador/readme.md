@@ -1,0 +1,1 @@
+Compila arquivos com a extensão python
